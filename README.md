@@ -35,5 +35,5 @@ Lastly to perform the testing add the test files in the memory.
 2. CPUtest2.dat
 3. CPUtest3.dat
 
-When you are done with settin up the project Run Simulation and keep on running untill you see, CPU Test 1 passed for test 1,CPU Test 2 passed for test 2,CPU Test 3 passed for test 3.
+When you are done with settinG up the project Run Simulation and keep on running untill you see, CPU Test 1 passed for test 1,CPU Test 2 passed for test 2,CPU Test 3 passed for test 3.
 
