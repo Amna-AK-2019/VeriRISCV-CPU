@@ -4,10 +4,10 @@ This project is a minimal CPU model designed to provide an in-depth understandin
 # ------------------------------------
 
 The core components of our VeriRISC processor:
-# Controller: 
+## Controller: 
 Generates control signals to synchronize the operations of the CPU, ensuring all components work in harmony.
 
-# Arithmetic Logic Unit (ALU): 
+### Arithmetic Logic Unit (ALU): 
 The processor’s powerhouse, performing all arithmetic and logical operations. It works with the accumulator register to execute required tasks.
 
 # Accumulator Register:
